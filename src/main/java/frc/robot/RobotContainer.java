@@ -6,7 +6,6 @@ package frc.robot;
 
 import frc.robot.Constants.Swerve;
 import frc.robot.commands.Autos;
-import frc.robot.subsystems.ExampleSubsystem;
 import edu.wpi.first.wpilibj.Joystick;
 import edu.wpi.first.wpilibj.XboxController;
 import edu.wpi.first.wpilibj.smartdashboard.SendableChooser;
